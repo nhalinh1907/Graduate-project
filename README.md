@@ -1,1 +1,4 @@
 # Graduate-project
+Đồ án tập trung xây dựng và đánh giá mô hình TimeXer - một mô hình hiện đại với kiến trúc Transformer based, so sánh với các mô hình học sâu khác như LSTM (mô hình có kiến trúc mạng nơ-ron), TimeMixer và TSMixer (mô hình có kiến trúc MLP-based) để dự báo chỉ số VNINDEX, nghiên cứu khả năng tích hợp biến ngoại sinh của TimeXer. 
+Siêu tham số của các kịch bản thực nghiệm được tối ưu bằng hai phương pháp Bayes Optimization: Gaussian Process và Gradient Boosted Trees. 
+Qua nhiều kịch bản, đồ án đưa ra năm nhận định quan trọng về hiệu suất và tiềm năng ứng dụng của TimeXer. Kết quả cho thấy tính thực tiễn cao, có thể mở rộng bằng cách tích hợp thêm biến ngoại sinh vĩ mô hoặc sử dụng mô hình phức tạp hơn. Trong quá trình thực hiện, nâng cao kỹ năng phân tích dữ liệu, tối ưu hóa mô hình học sâu và hiểu sâu hơn về dự báo chuỗi thời gian.
